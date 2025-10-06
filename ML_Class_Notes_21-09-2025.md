@@ -161,6 +161,3 @@ Using a validation set helps prevent overfitting by allowing you to see how your
     *   **Unsupervised:** Finding patterns in unlabeled data (grouping or clustering).
     *   **Reinforcement:** Learning through rewards and penalties (decision-making).
 *   **Data Splitting:** To avoid overfitting and get a true measure of performance, data must be split into training, validation, and testing sets.
-
-## References
-None mentioned in the notes.

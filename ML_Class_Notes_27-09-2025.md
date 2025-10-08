@@ -137,6 +137,8 @@ A confusion matrix summarizes the performance of a classification model:
 
 An introduction to one of the simplest and most widely used regression algorithms.
 
+Linear Regression is a supervised learning algorithm used to predict a continuous value (like price, temperature, or marks) based on one or more input features.
+
 Linear regression models the relationship between a dependent variable (`y`) and one or more independent variables (`x`) by fitting a linear equation to the observed data.
 
 -   **Simple Linear Regression Formula:** `y = mx + c`

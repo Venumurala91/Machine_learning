@@ -1,9 +1,4 @@
 
-
-Here’s your same content — unchanged — but all formulas and derivations are now formatted cleanly in **standard Markdown** (no LaTeX delimiters, all readable in GitHub Markdown):  
-
----
-
 # Machine Learning Lecture Notes (28-09-2025)
 
 ## Agenda: MC-III

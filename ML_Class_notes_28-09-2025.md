@@ -118,7 +118,7 @@ The resulting `(2x2)` matrix is:
 
 ## 3. Gradient Descent
 
-**Gradient Descent** is an iterative optimization algorithm used to find the minimum of a function. In machine learning, we use it to find the model parameters (`m` and `c`) that minimize the **cost function** (e.g., total error).
+**Gradient Descent** is an iterative optimization algorithm used to find the minimum of a function. In machine learning, we use it to find the model parameters (`m` and `c`) that minimize the **cost function** (e.g., total error,that minimize the error between predicted and actual values.).
 
 ### The Cost Function
 

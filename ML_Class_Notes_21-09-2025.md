@@ -96,6 +96,10 @@ The model learns the relationship between the features and the income from the t
 ### Unsupervised Learning
 In unsupervised learning, the model works with unlabeled data and tries to find hidden patterns or structures on its own.
 
+What is Clustering?
+
+Clustering means grouping similar data points together without using any labels.
+
 *   **Goal:** Discover underlying groups or patterns in the data (e.g., clustering, anomaly detection).
 
 **Example: Customer Segmentation**
